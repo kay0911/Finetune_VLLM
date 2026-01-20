@@ -165,10 +165,8 @@ Evaluation metrics include:
 
 ```text
 .
-├── train.py
-├── infer.py
-├── eval.py
-├── function.py
+├── finetune.py
+├── test.py
 ├── requirements.txt
 └── README.md
 ```
